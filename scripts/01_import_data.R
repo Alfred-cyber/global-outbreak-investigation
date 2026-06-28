@@ -22,3 +22,7 @@ dim(outbreak_data)
 nrow(outbreak_data)
 
 ncol(outbreak_data)
+glimpse(outbreak_data)
+
+
+

@@ -1,0 +1,16 @@
+case_id,report_date,age,sex,district,status
+C001,2026-01-02,24,F,North,Confirmed
+C002,2026-01-03,31,M,North,Confirmed
+C003,2026-01-03,12,F,East,Suspected
+C004,2026-01-04,45,M,West,Confirmed
+C005,2026-01-04,37,F,East,Confirmed
+C006,2026-01-05,29,M,South,Suspected
+C007,2026-01-05,18,F,North,Confirmed
+C008,2026-01-06,52,M,West,Confirmed
+C009,2026-01-06,41,F,South,Confirmed
+C010,2026-01-07,33,M,East,Suspected
+C011,2026-01-07,27,F,North,Confirmed
+C012,2026-01-08,60,M,West,Confirmed
+C013,2026-01-08,22,F,South,Confirmed
+C014,2026-01-09,39,M,East,Confirmed
+C015,2026-01-09,15,F,North,Suspected
