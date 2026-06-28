@@ -73,3 +73,5 @@ saveRDS(
   hotspots_sf,
   "data/processed/hotspots_sf.rds"
 )
+
+
